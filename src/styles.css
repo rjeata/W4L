@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.crsl {
+  display: flex;
+  width: 35%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.name {
+  font-size: 1em;
+  font-weight: bold;
+}

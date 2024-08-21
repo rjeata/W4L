@@ -1,0 +1,863 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.5135483,
+          "lng": 144.8402987
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.51489687989272,
+            "lng": 144.8417527798927
+          },
+          "southwest": {
+            "lat": 13.51219722010728,
+            "lng": 144.8390531201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "KFC Dededo",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105247931756166537879\">Josie Camacho</a>"
+          ],
+          "photo_reference": "AelY_CsVRhKaESFDPYG4Ejw7tBw49cIb3kMijZH58bP6TyiCUDWRD98xBEgZ--YfbmfB9KugagZSFpZ2iTcIZ_9gQSVsq5KJNsoMiuLuQMNl9ywQA99KDlTGXCZ9SCog0x0m8IV1dvn69vCJKJI70WPqo0YHMjF7DxuwWvp9p89mJynW12Ov",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJNf4XARCDH2cRuWsOK_JNNFA",
+      "plus_code": {
+        "compound_code": "GR7R+C4 Macheche, Guam",
+        "global_code": "7R56GR7R+C4"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJNf4XARCDH2cRuWsOK_JNNFA",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 303,
+      "vicinity": "26-Macheche Road, Macheche"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4386773,
+          "lng": 144.79462
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.43995302989272,
+            "lng": 144.7960448298927
+          },
+          "southwest": {
+            "lat": 13.43725337010728,
+            "lng": 144.7933451701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "KFC Mangilao",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102304971418374662782\">Kenneth Perez</a>"
+          ],
+          "photo_reference": "AelY_CuJ6bqAYTmFgtRswAYNV2YzKy_LKbiC1qBnXUER1UdLEc4PWwsoOwDsVJEfkMz-euXV0MytZJXqqlWnW4RvwClRfbCEplFHHkaUHmgNAnWoaatyZ5vmQcb3Kg3oH4K0LyUN_SWwWsUrD1X01Xs3iqx2uKBGt0MR6mJLCSh2efpihtCE",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJSYLuanidH2cRrzD77gSiA8g",
+      "plus_code": {
+        "compound_code": "CQQV+FR Mangilao, Guam",
+        "global_code": "7R56CQQV+FR"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJSYLuanidH2cRrzD77gSiA8g",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 235,
+      "vicinity": "10, Mangilao"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4376057,
+          "lng": 144.7951921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.43895702989272,
+            "lng": 144.7965866298927
+          },
+          "southwest": {
+            "lat": 13.43625737010728,
+            "lng": 144.7938869701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Taco Bell",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105885053310046784034\">ONDX06</a>"
+          ],
+          "photo_reference": "AelY_Ctr0hHL9-PA4ddx97L-OpEma-EsuA2VxglN8olxpOPxWZ8awkbM8Q9VLE7ol0mOO4kWvnKF28a8GDy9zvuhxA5ax3UOkcGqIUXWApaAnPW90tjJufBBpn4WfDs_iNPKJ5zNhLkBzrmStQxeF7Znlw5dZCuEJhMX5Cq7R-LA-gPD4aWK",
+          "width": 2160
+        }
+      ],
+      "place_id": "ChIJKT2dCXidH2cR6ASz528osR4",
+      "plus_code": {
+        "compound_code": "CQQW+23 University of Guam, Guam",
+        "global_code": "7R56CQQW+23"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJKT2dCXidH2cR6ASz528osR4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 139,
+      "vicinity": "124 Jesus Mariano Rd, University of Guam"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4749416,
+          "lng": 144.7812026
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.47637062989272,
+            "lng": 144.7824147298927
+          },
+          "southwest": {
+            "lat": 13.47367097010728,
+            "lng": 144.7797150701072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "McDonald's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 458,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115319687213089987657\">A Google User</a>"
+          ],
+          "photo_reference": "AelY_CsQZ9DjQzEi2V3YpPOfBsjVZBQ8eHV9W5hPIZmvPXrolvcJWrIVSxuCY3NoKePCR9ouQqjcH5_PsWWANSt-EXpUI7wggQoSv84md7WCyCKQfAS79zeh9imgmOU0FdLyyelbUFJl5MFBqImhffXBz60hbGRzeVVhFRCx-Qs8jIiYe_jR",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ1av9U355H2cR7SNqK6FRUFo",
+      "plus_code": {
+        "compound_code": "FQFJ+XF Barrigada, Guam",
+        "global_code": "7R56FQFJ+XF"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJ1av9U355H2cR7SNqK6FRUFo",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "store",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 719,
+      "vicinity": "384 West Route 8, Barrigada"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4950014,
+          "lng": 144.7939008
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.49631827989272,
+            "lng": 144.7952971798927
+          },
+          "southwest": {
+            "lat": 13.49361862010728,
+            "lng": 144.7925975201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113014043921642075331\">A Google User</a>"
+          ],
+          "photo_reference": "AelY_CszsYvnzBzbHG_idM_VD3NPt8d3wetNjJ_EygJx2v_bjjCm7HmjoIb1spGX1AT2cCZKr2PLr_--hEwAMx9ZRkFTp1pnrPzy8hkqkYwFPk37aS6haiSuSg5xJ_OPbi78WMZ57zBhLEK2MQVifQ3CaJgwNHmWxDK-wqnf10jBAKtuhSGM",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJkZJ58aKCH2cRxLpqzT1S_Sg",
+      "plus_code": {
+        "compound_code": "FQWV+2H Tamuning, Guam",
+        "global_code": "7R56FQWV+2H"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJkZJ58aKCH2cRxLpqzT1S_Sg",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "101 Chalan Pasaheru Lot No. 5147-2C, 6-R1new, Tamuning"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4895223,
+          "lng": 144.820789
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.49083477989272,
+            "lng": 144.8221262798927
+          },
+          "southwest": {
+            "lat": 13.48813512010728,
+            "lng": 144.8194266201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115770828909256204097\">A Google User</a>"
+          ],
+          "photo_reference": "AelY_CtQ4iiLXF6qCCTZln-HHZMXkZh6Wt_G4vSVLPGUHzp6aZjFD28V00RVi9epkG3Nx5D6oEtaMZ02JiQ0yuzR66RvVAmr1sCsYNBhJeNDA3kvf8_xjugJ46tmZV8GGiON6PESnwrRfCVhEuzWVLAi6105osqxOoo1Je2oBOl_GDmAe6UK",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJv7qa_diFH2cRtY7WDY24fPA",
+      "plus_code": {
+        "compound_code": "FRQC+R8 Barrigada Heights, Guam",
+        "global_code": "7R56FRQC+R8"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJv7qa_diFH2cRtY7WDY24fPA",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "Lot No. 1, Block. 1, Tract Np. 1442, Barrigada Heights"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4386451,
+          "lng": 144.7993746
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.43999612989272,
+            "lng": 144.8006671798927
+          },
+          "southwest": {
+            "lat": 13.43729647010728,
+            "lng": 144.7979675201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116975950679344439184\">A Google User</a>"
+          ],
+          "photo_reference": "AelY_CvBsaZRb9hsWxh-j3FIPTC3l0QxOMJ0jmxDmwMHC-YU7sALkYRUu7wIhatzcXm56UyWLhQjpqPVHwioAHU82UYtTAOLNQ5le6kU_KwiXOpE3Cm_Pdis1WQ6mXYi0idWBm_XnELMKYAvWB4_7ZAgqXRlYkBn8jkrv0c5_E0W57lzb80",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJ5VLshZ2dH2cRLCvqQDaSb24",
+      "plus_code": {
+        "compound_code": "CQQX+FP Mangilao, Guam",
+        "global_code": "7R56CQQX+FP"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ5VLshZ2dH2cRLCvqQDaSb24",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 143,
+      "vicinity": "Mobil Gas Station, Route 10, Mangilao"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4773635,
+          "lng": 144.7620467
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.47895992989272,
+            "lng": 144.7633147798927
+          },
+          "southwest": {
+            "lat": 13.47626027010728,
+            "lng": 144.7606151201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Burger King Hagatna",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108277472141549285694\">Burger King</a>"
+          ],
+          "photo_reference": "AelY_Ctr3FxGU-2qYrCqsTkWbT1BJIHfcDNlbY8NEOqI4nSMdYRvocLJJralweJT9HvM1ZqflZQG8yvJBEFyqHeete1izmkgAA0a8CzfBQCRbImwmgcCwHLnOIDz8a1kFDVnLu_blQ8y8DQa7nAtCDhq8tMb9tGsdGTgCtw63SiQtUJVcREw",
+          "width": 1813
+        }
+      ],
+      "place_id": "ChIJnfpgdI2CH2cREmDgU4Gqc10",
+      "plus_code": {
+        "compound_code": "FQG6+WR Hag\u00e5t\u00f1a, Guam",
+        "global_code": "7R56FQG6+WR"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJnfpgdI2CH2cREmDgU4Gqc10",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 362,
+      "vicinity": "Trinchera Place, Marine Corps Dr, Hag\u00e5t\u00f1a"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.5137138,
+          "lng": 144.8430148
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.51517902989272,
+            "lng": 144.8445077798927
+          },
+          "southwest": {
+            "lat": 13.51247937010728,
+            "lng": 144.8418081201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105609578437106240746\">SUBWAY\u00ae Restaurants (C-Store / Gas Station)</a>"
+          ],
+          "photo_reference": "AelY_CvbKZ4UyVt6FQ0Mi99UfxI15ixjeUhfwHVjuYPVdBTmxS5EoMKMOiU4KbxXxG9wjHvfae_NxH-JDMyRrMwdpBlNmsela61MjCX3sLALJlVSjbkrXD0ToWjfNvDu1xJdiIWOPtBlRMnPRSI3HNKGarL0FZaIqXWaaT7z2sYAt1ggPi-o",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJoQ8v4xGDH2cRVM8DdHQpo2A",
+      "plus_code": {
+        "compound_code": "GR7V+F6 Yigo, Guam",
+        "global_code": "7R56GR7V+F6"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJoQ8v4xGDH2cRVM8DdHQpo2A",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 147,
+      "vicinity": "1 North Marine Dr, Yigo"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4701451,
+          "lng": 144.7548928
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.47157387989272,
+            "lng": 144.7562433798927
+          },
+          "southwest": {
+            "lat": 13.46887422010728,
+            "lng": 144.7535437201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110503959148733510611\">A Google User</a>"
+          ],
+          "photo_reference": "AelY_Cs626TvlFgp2QyNgUnz0o9J-qu9uzOGL9Hi0-QJraqw3U9AYWQ9LyrFCxCZpVE1ilm8hJYJo9xw1RNsRYrpzfZJNysvpzshE6r2b_0BSzgMs7CWfzMCnJR588AkJzBsJ72fRM3nQbtmmoH80wxOLCVQTwpK6IRuVrASE_jEWsJfqr3v",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJ1Z7fLIh3H2cR8gEAAhhBFy4",
+      "plus_code": {
+        "compound_code": "FQC3+3X Hag\u00e5t\u00f1a, Guam",
+        "global_code": "7R56FQC3+3X"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJ1Z7fLIh3H2cR8gEAAhhBFy4",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 57,
+      "vicinity": "302 South 4 Space #329, Hag\u00e5t\u00f1a"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4930409,
+          "lng": 144.7925781
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.49427017989272,
+            "lng": 144.7940503298927
+          },
+          "southwest": {
+            "lat": 13.49157052010728,
+            "lng": 144.7913506701073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "McDonald\u2019s",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111565593988769967041\">Jun Young Choi</a>"
+          ],
+          "photo_reference": "AelY_CuniOoLSOfIwgSbO3oEQtMCDVpfV3MAUtPjcd2bn6Y6CDnxBpLYq65wM9_oh2AJsa9c-EopgNduZzms3vP_CYirQIr1_huC9GlHTdUZiz1JQrA-g6ZluR8rPpZdiYZZEXrxErKpZvNYReGDTgxOH0QOsd6scN6OXG94J-UTWyS5lb-7",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJv6iiuqOCH2cRpqonmRVO9Dw",
+      "plus_code": {
+        "compound_code": "FQVV+62 Tamuning, Guam",
+        "global_code": "7R56FQVV+62"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJv6iiuqOCH2cRpqonmRVO9Dw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 887,
+      "vicinity": "180 S Marine Corps Dr, Tamuning"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.5676832,
+          "lng": 144.9220688
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.56895557989272,
+            "lng": 144.9232327798927
+          },
+          "southwest": {
+            "lat": 13.56625592010728,
+            "lng": 144.9205331201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113277480134470610202\">A Google User</a>"
+          ],
+          "photo_reference": "AelY_CuD3gmSJtIqAuet-G1XqRG7J0pYZatp_7Zvaszi50Ws0RXdlvwUUnCYun2quyynUOZOjOjseiUEF1lJL8dRg4XxcnhleiA5h2yRdN3XxszX2J41V4TcvLne17FInOyYP1X-5MubOuSWnhIXJ2QzPmDt_8DEkqJ539w2IgkhvAkppQIx",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJv7qa_diFH2cRh8a9pTlgz3U",
+      "plus_code": {
+        "compound_code": "HW9C+3R Yigo, Guam",
+        "global_code": "7R56HW9C+3R"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJv7qa_diFH2cRh8a9pTlgz3U",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 64,
+      "vicinity": "Bx Shopping Centerr, Building 24016, Yigo"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4898533,
+          "lng": 144.7876183
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.49107382989272,
+            "lng": 144.7891564798927
+          },
+          "southwest": {
+            "lat": 13.48837417010728,
+            "lng": 144.7864568201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Denny's Tamuning",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100115273480720185622\">\uae40\uc740\uacbd</a>"
+          ],
+          "photo_reference": "AelY_CuiHtP3USx3qYoy9F0RrBcFPpopnIsSSqOQSwb1pI_-r4p83H9KvEqOp1uPRMUJrJT_x14X_jg1_okaH5WUmwUD-6XMh4Q_6ZqaEceJTgfBYO1ytBq2rGkgrPCOhC921vCpiX2xd47JalRwkP6rVk2cYdeAK_mKVsdYPbYtu-fE9jA5",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJOcg7JqeCH2cRnYYFCms2ncc",
+      "plus_code": {
+        "compound_code": "FQQQ+W2 Tamuning, Guam",
+        "global_code": "7R56FQQQ+W2"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJOcg7JqeCH2cRnYYFCms2ncc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1081,
+      "vicinity": "393 S Marine Corps Dr, Tamuning"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4293195,
+          "lng": 144.6542252
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.43066887989272,
+            "lng": 144.6555311798927
+          },
+          "southwest": {
+            "lat": 13.42796922010728,
+            "lng": 144.6528315201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109009072160190562721\">A Google User</a>"
+          ],
+          "photo_reference": "AelY_CvXjif1xElYZxlG0Xz1b0hhgluZdMZVz15ZMdeQqo78_jvi3xIUqUF4p4N4ejXdSTOXWIkabnLqs0zfMKHGoA45RCRoG74_ETFc8mBPl5lM2xKCCEFTi_paQceYJWbxzbMzYeCvMDYtuIyZpOcgCVQJ5Sh_19vwr_U5e1HzSFL87zIm",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJUWzcxVVwH2cR-XuT3vjRuEw",
+      "plus_code": {
+        "compound_code": "CMH3+PM H\u00e5gat, Guam",
+        "global_code": "7R56CMH3+PM"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJUWzcxVVwH2cR-XuT3vjRuEw",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "Barracks, 20, H\u00e5gat"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.4715438,
+          "lng": 144.7546146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.47289482989272,
+            "lng": 144.7559633798927
+          },
+          "southwest": {
+            "lat": 13.47019517010728,
+            "lng": 144.7532637201072
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Taco Bell",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118415338522339914327\">JH Yeon</a>"
+          ],
+          "photo_reference": "AelY_Cvsa94GTL0FD4p9tnU1OdLl_TsODxNRbZhqoi6W-Vwna6rzZbbITh7Nnzlb8sp93Dn87CL7rJGBQyqP4ZQ0_4QkL0pAKni166feEzXWTtq7fO-EdEqGBYd2N_OkzVanqKccKJGdlwxc4auUg1FMBoSOXDW_muZ4BmHBXEsPtKZVj3H0",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJpy6_nid4H2cRRcrvZ9FI01g",
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJpy6_nid4H2cRRcrvZ9FI01g",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 282,
+      "vicinity": "FQC3+JR5, 4, Hag\u00e5t\u00f1a"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 13.5198287,
+          "lng": 144.8170224
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 13.52113712989272,
+            "lng": 144.8182892798927
+          },
+          "southwest": {
+            "lat": 13.51843747010728,
+            "lng": 144.8155896201073
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Denny's Micronesia Mall",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112099797569495323005\">\u7530\u4e2d\u96c5\u58eb</a>"
+          ],
+          "photo_reference": "AelY_CvND0xV9Aok_eX1j9QH7tegbt-6tDCh66gSQpaNslczjTlUnUHBeITJG049UMidSKArTtod5gb4X8Yu_YtSDoiKgcPKKCME-GV2--X1IYt5JkzO1B-FaifL00pkHmpiJgivSUNfpcC2daz5j6d5rrG6rdlt9BO99VSool6MyI1qgEpe",
+          "width": 7296
+        }
+      ],
+      "place_id": "ChIJG1b74feCH2cRCF53rkDJieE",
+      "plus_code": {
+        "compound_code": "GR98+WR Liguan, Guam",
+        "global_code": "7R56GR98+WR"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJG1b74feCH2cRCF53rkDJieE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 697,
+      "vicinity": "1088 W, Marine Corps Dr, Liguan"
+    }
+  ],
+  "status": "OK"
+}
