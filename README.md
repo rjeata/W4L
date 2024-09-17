@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/z/asian-food-emblem-japanese-mochi-onigiri-ramen-poster-mascot-character-chinese-baozi-fortune-cookie-cartoon-vector-266108355.jpg?ct=jpeg" alt="W4L" height="250">
+  <img src="/images/foodimg.png" alt="W4L" height="250">
   <h1 align="center"> What's for lunch? </h1>
 
   <p align="center">
