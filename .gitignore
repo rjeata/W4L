@@ -1,7 +1,7 @@
 # environment variables
 secret.env
 
-# runtime data
+# data from api call
 ./responseData.json
 
 # dependencies
