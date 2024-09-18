@@ -5,7 +5,7 @@ secret.env
 api/responseData.json
 
 # untrack whatever this is
-.pyc
+*.pyc
 
 # dependencies
 /node_modules

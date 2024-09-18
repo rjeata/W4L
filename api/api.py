@@ -35,36 +35,36 @@ def test():
     keyword = restType.lower().replace(" ", "%20")
     if keyword != "":
         keyword = "&keyword=" + keyword
-        url = url + keyword
     else:
         keyword = "&keyword=food"
-        url = url + keyword
+
+    url = url + keyword
 
     maxprice = price
     if maxprice != "":
         maxprice = "&maxprice=" + maxprice
-        url = url + maxprice
     else:
         maxprice = "&maxprice=4"
 
+    url = url + maxprice
+
     opennow = openN
-    if opennow == "y":
-        opennow = "&opennow=true"
-        url = url + opennow
-    elif opennow == "n":
+    if opennow == "n":
         opennow = "&opennow=false"
-        url = url + opennow
     else:
-        opennow = "&opennow=true&opennow=false"
-        url = url + opennow
+        opennow = "&opennow=true"
+
+    url = url + opennow
 
     radius = maxDistance
     if radius != "":
         radius = str(round(float(radius) * 1609.34))
         radius = "&radius=" + radius
-        url = url + radius
     else:
-        url = url + "&radius=3200"
+        radius = str(round(float(100) * 1609.34))
+        radius = "&radius=" + radius
+
+    url = url + radius
 
     # add api key to url
     url = url + my_api_key
