@@ -2,8 +2,9 @@
 secret.env
 
 # data from api call
-./responseData.json
+api/responseData.json
 
+# untrack whatever this is
 .pyc
 
 # dependencies
