@@ -4,6 +4,8 @@ secret.env
 # data from api call
 ./responseData.json
 
+.pyc
+
 # dependencies
 /node_modules
 /.pnp

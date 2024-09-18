@@ -44,6 +44,8 @@ def test():
     if maxprice != "":
         maxprice = "&maxprice=" + maxprice
         url = url + maxprice
+    else:
+        maxprice = "&maxprice=4"
 
     opennow = openN
     if opennow == "y":
@@ -51,6 +53,9 @@ def test():
         url = url + opennow
     elif opennow == "n":
         opennow = "&opennow=false"
+        url = url + opennow
+    else:
+        opennow = "&opennow=true&opennow=false"
         url = url + opennow
 
     radius = maxDistance
